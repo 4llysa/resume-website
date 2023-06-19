@@ -1,10 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "http://allysa.org/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "Allysa Tan"
+title = "Allysa's Website"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
