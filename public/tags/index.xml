@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Allysa&#39;s Website</title>
+        <link>http://allysa.org/tags/</link>
+        <description>Tags - Tag - Allysa&#39;s Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>allysa@u.nus.edu (Allysa Tan)</managingEditor>
+            <webMaster>allysa@u.nus.edu (Allysa Tan)</webMaster><atom:link href="http://allysa.org/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>

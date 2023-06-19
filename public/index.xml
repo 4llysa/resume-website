@@ -1,0 +1,27 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Allysa&#39;s Website</title>
+        <link>http://allysa.org/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>allysa@u.nus.edu (Allysa Tan)</managingEditor>
+            <webMaster>allysa@u.nus.edu (Allysa Tan)</webMaster><lastBuildDate>Mon, 19 Jun 2023 19:24:29 &#43;0200</lastBuildDate>
+            <atom:link href="http://allysa.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Favourite films</title>
+    <link>http://allysa.org/posts/favourite_films/</link>
+    <pubDate>Mon, 19 Jun 2023 19:24:29 &#43;0200</pubDate>
+    <author>Allysa Tan</author>
+    <guid>http://allysa.org/posts/favourite_films/</guid>
+    <description><![CDATA[my favourite films Inspired by my friend Marianna, here is a list of my favourite shows.
+gilmore girls never have i ever love, actually legally blonde I realised that listing my favourite films is a harder than excpected task. to be updated As you can see, I am a sucker for rom-coms. some criteria i use to rate shows include 1. how much it made me cry and 2. how fast the story goes.]]></description>
+</item>
+<item>
+    <title>First_post</title>
+    <link>http://allysa.org/posts/first_post/</link>
+    <pubDate>Mon, 19 Jun 2023 19:24:29 &#43;0200</pubDate>
+    <author>Allysa Tan</author>
+    <guid>http://allysa.org/posts/first_post/</guid>
+    <description><![CDATA[Welcome to my first post Hello World!]]></description>
+</item>
+</channel>
+</rss>
