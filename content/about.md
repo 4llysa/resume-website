@@ -8,4 +8,6 @@ draft: false
 
 bonjour! je m'appelle allysa! j'etudie a l'universite nationale de Singapour. je vais etudier a paris l'annee prochaine! mes interets sont dans les mathematiques, l'informatique et l'economie.
 
+je veux etudier a Telecom Paris, le premier ecole pour informatiques, et deuxieme overall! je ne peux pas attendre!
+
 :D
